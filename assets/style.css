@@ -206,12 +206,13 @@ body {
   
   .work:nth-child(even) {
     margin-right: 40px;
+    
   }
   
   .work img {
     width: 100%;
     border: 0 none;
-    
+   
   }
   
   .work h3 {
@@ -226,6 +227,7 @@ body {
     text-align: center;
     background: #4aaaa5;
     border-bottom: 0;
+   
   }
   
   .auth-image {
@@ -234,6 +236,7 @@ body {
     height: auto;
     margin-top: 10px;
     margin-right: 25px;
+ 
    
   }
   
